@@ -2,13 +2,11 @@ PATH
   remote: .
   specs:
     websocket-client-simple (0.3.0)
-      event_emitter
       websocket
 
 GEM
   remote: https://rubygems.org/
   specs:
-    event_emitter (0.2.5)
     eventmachine (1.0.9.1)
     minitest (5.8.4)
     rake (10.5.0)
